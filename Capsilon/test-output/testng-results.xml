@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="392" started-at="2019-06-24T16:49:22Z" finished-at="2019-06-24T16:49:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="392" started-at="2019-06-24T16:49:22Z" finished-at="2019-06-24T16:49:22Z">
+      <class name="excelPrograms.ExcelCodingTest">
+        <test-method status="PASS" signature="failedStudents1()[pri:0, instance:excelPrograms.ExcelCodingTest@55f3ddb1]" name="failedStudents1" duration-ms="289" started-at="2019-06-24T09:49:22Z" description="Assignmnent1(Question4)" finished-at="2019-06-24T09:49:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedStudents1 -->
+        <test-method status="PASS" signature="highestMarks2()[pri:0, instance:excelPrograms.ExcelCodingTest@55f3ddb1]" name="highestMarks2" duration-ms="17" started-at="2019-06-24T09:49:22Z" description="Assignmnent1(Question4)" finished-at="2019-06-24T09:49:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highestMarks2 -->
+        <test-method status="PASS" signature="similarMarksInMaths4()[pri:0, instance:excelPrograms.ExcelCodingTest@55f3ddb1]" name="similarMarksInMaths4" duration-ms="15" started-at="2019-06-24T09:49:22Z" description="Assignmnent1(Question4)" finished-at="2019-06-24T09:49:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- similarMarksInMaths4 -->
+        <test-method status="PASS" signature="topperInPhysics3()[pri:0, instance:excelPrograms.ExcelCodingTest@55f3ddb1]" name="topperInPhysics3" duration-ms="10" started-at="2019-06-24T09:49:22Z" description="Assignmnent1(Question4)" finished-at="2019-06-24T09:49:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- topperInPhysics3 -->
+      </class> <!-- excelPrograms.ExcelCodingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

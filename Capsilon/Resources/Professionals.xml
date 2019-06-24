@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<capsilon>
+   <salesman id="1">
+      <city>thane</city>
+      <name>Anurag</name>
+      <pin>411011</pin>
+   </salesman>
+   <salesman id="2">
+      <city>thane</city>
+      <name>Ranjit</name>
+      <pin>411258</pin>
+   </salesman>
+   <professional id="3">
+      <city>solapur</city>
+      <name>Mahesh</name>
+      <pin>415669</pin>
+   </professional>
+   <professional id="4">
+      <city>solapur</city>
+      <name>Nikhil</name>
+      <pin>4586552</pin>
+   </professional>
+   <student id="5">
+      <city>pune</city>
+      <name>Surya</name>
+      <pin>5448855</pin>
+   </student>
+   <student id="6">
+      <city>pune</city>
+      <name>Yogesh</name>
+      <pin>5556666</pin>
+   </student>
+   <student id="7">
+      <city>pune</city>
+      <name>Mihir</name>
+      <pin>4521856</pin>
+   </student>
+   </capsilon>

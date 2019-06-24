@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="excelPrograms.ExcelCodingTest">
+        <methods>
+          <include name="similarMarksInMaths4"/>
+          <include name="failedStudents1"/>
+          <include name="highestMarks2"/>
+          <include name="topperInPhysics3"/>
+        </methods>
+      </class> <!-- excelPrograms.ExcelCodingTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
